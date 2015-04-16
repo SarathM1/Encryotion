@@ -1,0 +1,12 @@
+# Ignore everything
+*
+flasky
+
+# But not these files...
+!.gitignore
+!*.gpg
+
+# etc...
+
+# ...even if they are in subdirectories
+
