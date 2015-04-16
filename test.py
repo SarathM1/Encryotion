@@ -13,7 +13,7 @@ app.secret_key = 'my secret key is this'
 
 bootstrap = Bootstrap(app)
 
-
+#dfa
 @app.route("/",methods=["GET","POST"])
 def index():
     if request.method == 'POST':
